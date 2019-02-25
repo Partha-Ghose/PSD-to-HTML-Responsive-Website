@@ -1,0 +1,127 @@
+/*
+
+Name :: Partha Proteem Ghose
+Gmail :: ppghose0@gmail.com
+University :: Jashore University of Science and Technology (JUST)
+Linkedin ::https://www.linkedin.com/in/partha-proteem-ghose-8702b0148/
+Github ::https://github.com/Partha-Ghose
+
+*/
+
+.headsection{
+	background: #151515;
+	position: fixed;
+	right: 0;
+	left: 0;
+}
+.logo{
+	float:left;
+}
+.title{
+	float:left;
+}
+.title h2{
+	padding-left:10px;
+}
+.title span{
+	font-weight:bold;
+	color: #18A05E;
+}
+
+.bannersection{
+	background: url(../picture/banner.jpg) no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+	padding: 200px 0px;
+}
+.banner{
+	max-width: 821px;
+}
+.banner h2{
+		font-size: 72px;
+    font-weight: bold;
+    color: #fff;
+    text-transform: uppercase;
+}
+.banner p {
+    font-size: 34px;
+    color: #fff;
+		margin-top: 30px;
+}
+.banner button {
+    padding: 15px 25px;
+    margin-top: 60px;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.servicesection {
+    padding: 118px 0px;
+	z-index: -1;
+	position: relative;
+}
+.service {
+    border: 2px solid #FF9;
+}
+.serviceimg {
+    text-align: center;
+    padding: 65px 0px;
+    background-color: #FFD;
+    margin: 5px;
+}
+.serviceimg i {
+	    font-size: 52px;
+	    color: #FE4;
+	}
+	.service h2 {
+	    text-align: center;
+	    font-size: 35px;
+	    padding: 30px;
+	    color: #8c8b8b;
+	}
+	.service p {
+	    padding: 0px 7px;
+	    padding-bottom: 60px;
+	    text-align: justify;
+	    font-size: 17px;
+	}
+
+
+.anothersection{
+
+}
+.clientheading{
+	text-align: center;
+}
+.clientheading h2 {
+		text-transform: uppercase;
+    background-color: #666;
+    padding: 10px 22px;
+		margin: 0 auto;
+		max-width: 500px;
+    border-radius: 16px;
+    border: 2px solid #560;
+    color: ghostwhite;
+    margin-bottom: 45px;
+}
+.clientlogo{
+
+}
+.clientlogo img{
+	    z-index: -1;
+    position: relative;
+}
+.address{
+	margin-bottom: 80px;
+}
+.social{
+		margin-bottom: 80px;
+}
+.footersection {
+    background: #000;
+    padding: 10px;
+    font-size: 21px;
+    color: #fff;
+}
